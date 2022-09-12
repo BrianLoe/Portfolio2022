@@ -2,6 +2,8 @@
 
 ## 1. Covid Data Exploration using SQL (COVID-19 Data as of 22/08/2022)
 Source: ourworldindata.org
+Interactive dashboard link: https://public.tableau.com/views/CovidProject_16618674649600/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
+Dashboard image link: https://github.com/BrianLoe/datavis_dashboards/blob/5517e492891db97e1bae1aeaa2e620445994bc97/portfolio_dashboard/Dashboard%201.png
 Exploring and querying covid cases worldwide that spark an interest to be visualised.
 
 Key Insights:
